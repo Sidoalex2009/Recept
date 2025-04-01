@@ -3,6 +3,7 @@
     background: burlywood;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0 0, 0, 0.5);
+    
 }
 
 header{
@@ -29,3 +30,16 @@ ul{
     list-style-type: square;
     padding-left: 20px;
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse ;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+th, td {
+    border: 1px solid hwb(0 3% 97%);
+    padding: 10px;
+}
+
